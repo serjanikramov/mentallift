@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MentalLift - Mental Health Awareness</title>
+<style>
+  body { font-family: Arial, sans-serif; background: #f4f6f8; color: #333; margin: 0; padding: 0; }
+  header { background-color: #4a90e2; color: white; padding: 20px; text-align: center; }
+  main { max-width: 800px; margin: 20px auto; padding: 0 15px; }
+  h1, h2 { color: #2c3e50; }
+  section { margin-bottom: 25px; }
+  footer { text-align: center; padding: 15px; background-color: #ddd; font-size: 0.9em; }
+  a { color: #4a90e2; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<header>
+  <h1>MentalLift</h1>
+  <p>Raising Awareness About Mental Health</p>
+</header>
+<main>
+  <section>
+    <h2>What is Mental Health?</h2>
+    <p>Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices.</p>
+  </section>
+
+  <section>
+    <h2>Why is Mental Health Important?</h2>
+    <p>Good mental health is essential for living a balanced life. It helps us cope with the stresses of daily life, work productively, and build strong relationships.</p>
+  </section>
+
+  <section>
+    <h2>Common Mental Health Issues</h2>
+    <ul>
+      <li>Depression</li>
+      <li>Anxiety Disorders</li>
+      <li>Bipolar Disorder</li>
+      <li>Post-Traumatic Stress Disorder (PTSD)</li>
+      <li>Eating Disorders</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How to Take Care of Your Mental Health</h2>
+    <ul>
+      <li>Talk openly about your feelings.</li>
+      <li>Stay connected with friends and family.</li>
+      <li>Practice regular physical activity.</li>
+      <li>Get enough sleep.</li>
+      <li>Seek professional help if needed.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Resources</h2>
+    <p>If you or someone you know is struggling, here are some resources:</p>
+    <ul>
+      <li><a href="https://www.mentalhealth.gov" target="_blank" rel="noopener noreferrer">MentalHealth.gov</a></li>
+      <li><a href="https://www.nami.org" target="_blank" rel="noopener noreferrer">NAMI - National Alliance on Mental Illness</a></li>
+      <li><a href="https://www.who.int/mental_health/en/" target="_blank" rel="noopener noreferrer">World Health Organization - Mental Health</a></li>
+    </ul>
+  </section>
+</main>
+<footer>
+  <p>Created by Ikramov Serjan | Mind4Youth Project</p>
+</footer>
+</body>
+</html>
